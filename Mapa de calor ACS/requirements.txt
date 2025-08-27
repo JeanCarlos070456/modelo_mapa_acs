@@ -1,0 +1,7 @@
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+folium==0.16.0
+streamlit-folium==0.20.0
+pydantic>=2.7,<3
+pydantic-settings>=2.2,<3
