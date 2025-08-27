@@ -1,6 +1,11 @@
-streamlit>=1.32,<2
-pandas>=2
+# Core
+streamlit>=1.36,<2
+pandas>=2.0
 numpy>=1.26
+
+# Mapas
 folium>=0.16
 streamlit-folium>=0.20
+
+# Gráficos
 plotly>=5.20
